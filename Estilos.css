@@ -1,0 +1,23 @@
+body{
+    color: cadetblue;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+a:hover{
+    color: black;
+}
+
+img{
+    width: 60%;
+    margin: auto;
+}
+
+img{
+    display: block;
+}
+
